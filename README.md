@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Jason and I'm a Project Researcher at the Environmental Solutions Lab at the [University of California, Santa Barbara](https://emlab.msi.ucsb.edu/) working on marine spatial planning and coastal and fisheries management on islands in the Caribbean, Pacific, and Western Indian Ocean. I work with emLab’s partners at the [Waitt Institute](https://www.waittinstitute.org/) on their work with the [Blue Prosperity Coalition](https://www.blueprosperity.org/). My work has helped guide marine spatial planning in Montserrat and Bermuda, and inform fisheries management in Barbuda, Curacao, the Maldives, and Montserrat. 
+My name is Jason and I'm a Project Researcher at the [Environmental Solutions Lab](https://emlab.msi.ucsb.edu/) at the University of California, Santa Barbara working on marine spatial planning and coastal and fisheries management on islands in the Caribbean, Pacific, and Western Indian Ocean. I work with emLab’s partners at the [Waitt Institute](https://www.waittinstitute.org/) on their work with the [Blue Prosperity Coalition](https://www.blueprosperity.org/). My work has helped guide marine spatial planning in Montserrat and Bermuda, and inform fisheries management in Barbuda, Curacao, the Maldives, and Montserrat. 
 
 I am also a Research Assistant for the [Foundation for Environmental Conservation](https://foundationforec.org/) and co-organised the Foundation’s [7th International Conference on Environmental Future: Humans and Island Environments](https://foundationforec.org/7th-international-conference-on-environmental-future/) in 2018. 
 
