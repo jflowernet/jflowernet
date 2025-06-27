@@ -27,6 +27,14 @@ Prior to starting at emLab in 2016, I worked on the EU funded Future of Reefs in
 - 📓 Publications: [Google scholar page](https://scholar.google.com/citations?user=Hi4TYHgAAAAJ&hl=en&oi=ao)
 - 📸 My photos [website](https://jflowernet.github.io/index.html), hosted on Github, with Mediterranean and Caribbean marine life ID guides
 
+### Seminars/ tutorials
+
+Links to various R seminars and tutorials that I have given:
+
+- **Introduction to rasters with `terra`**: [Website](https://jflowernet.github.io/intro-terra/) and [repo](https://github.com/jflowernet/intro-terra)
+- **Rapid intro to spatial prioritization**: [Website](https://jflowernet.github.io/intro-prioritization/) and [repo](https://github.com/jflowernet/intro-prioritization)
+- **Introduction to Global Fishing Watch data downloading and visualization in R**: [Website](https://jflowernet.github.io/gfwr-intro/) and [repo](https://github.com/jflowernet/gfwr-intro)
+
 ### Publications with associated code and data repositories
 
 - Flower et al. 2021. [An experimental evaluation of the effect of escape gaps on the quantity, diversity, and size of fish caught in traps in Montserrat](https://doi.org/10.1371/journal.pone.0261119). *PLOS ONE*. [Code and data repo](https://github.com/emlab-ucsb/montserrat-trap-experiment-paper)
