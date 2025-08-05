@@ -24,7 +24,7 @@ Prior to starting at emLab in 2016, I worked on the EU funded Future of Reefs in
 - 💬 Ask me about marine spatial analysis in R and fisheries management
 - 📫 Contact me: [jflower@ucsb.edu](mailto:jflower@ucsb.edu)
 - 😄 Pronouns: He/ Him/ His
-- 📓 Publications: [Google scholar page](https://orcid.org/0000-0002-6731-8182)
+- 📓 Publications: [ORCID page](https://orcid.org/0000-0002-6731-8182)
 - 📸 My photos [website](https://jflowernet.github.io/index.html), hosted on Github, with Mediterranean and Caribbean marine life ID guides
 
 ### Seminars/ tutorials
